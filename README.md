@@ -1,6 +1,6 @@
 
-### Olá, meu nome é Raphael Souza ✌️ Estudante de Análise e Desenvolvimento de Sistemas // Hello, world! My name is Raphael Souza ✌️ System Development Student
-Full time nerd e futuro Fullstack 🤓 / Future Fullstack Developer
+### Olá, meu nome é Raphael Souza, estudante de Análise e Desenvolvimento de Sistemas // Hello, world! My name is Raphael Souza, System Development Student
+Full time nerd e futuro Fullstack / Future Fullstack Developer
 
 Logo abaixo, estão as redes sociais onde vocês podem me encontrar / Social Media and where to find me
 
