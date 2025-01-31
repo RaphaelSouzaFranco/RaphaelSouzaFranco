@@ -3,7 +3,7 @@
  Social Media and where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-souza-franco-a665392b7/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](raphchio@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphchio@gmail.com)
 
 
 ![RaphaelSouzaFranco's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelSouzaFranco&show_icons=true&theme=synthwave)
