@@ -1,6 +1,6 @@
 
-### Raphael Souza, System Development Student @ FIAP
-### Frontend Developer - HTML/CSS/Javascript
+### Raphael Souza, System Development Student @ FIAP / GenAI & LLM Grad @ PUC-RJ
+### Fullstack Developer | AI Development | Machine Learning | Java | Python
  Social Media and where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-souza-franco-a665392b7/)
