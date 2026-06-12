@@ -1,32 +1,57 @@
+# Hey there! I'm Raphael Souza 👋
 
-### Raphael Souza, System Development Student @ FIAP / GenAI & LLM Grad @ PUC-RJ
-### Fullstack Developer | AI Development | Machine Learning | Java | Python
- Social Media and where to find me
+<p align="center">
+  <!-- Dynamic Liquid Glass Card Centerpiece -->
+  <img src="https://api-liquid-glass-ey8v.vercel.app/liquid-glass?title=Raphael%20Souza&text=Dev%20Fullstack%20%7C%20AI%20Development%20%7C%20Estudante%20FIAP%20%26%20PUC-RJ&theme=cyberpunk&icon=sparkles&badges=Java,Python,JS,React,GenAI,ML" alt="Raphael's Status" width="100%" style="max-width: 600px;" />
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-souza-franco-a665392b7/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphchio@gmail.com)
+### 💫 About Me
+I'm a System Development student at **FIAP** and pursuing a Postgraduate degree in **GenAI & LLM** at **PUC-RJ**. Passionate about building fullstack applications, researching Machine Learning, and developing generative AI models.
 
+- 🎓 **Education**: FIAP (Systems Development) & PUC-RJ (GenAI & LLM)
+- 💼 **Focus**: Fullstack Development & AI Engineering
+- 🚀 **Currently building**: High-performance APIs and LLM-powered applications
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/raphael-souza-franco-a665392b7/) | [Gmail](mailto:raphchio@gmail.com)
 
-![RaphaelSouzaFranco's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelSouzaFranco&show_icons=true&theme=synthwave)
+---
 
-### Tecnologias que estou estudando e usando / Technologies that i'm studying and using 
-<div style="display: inline_block"><br/> 
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+### 🛠️ Tech Stack & Skills
 
+#### Languages & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-</div><br/>
+#### Frontend & UI
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
+#### AI & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/GenAI%20%26%20LLMs-🤖-blueviolet?style=for-the-badge" alt="GenAI" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-🧠-blue?style=for-the-badge" alt="Machine Learning" />
+</p>
 
- Github's profile still in development.
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaphaelSouzaFranco&show_icons=true&theme=synthwave" alt="GitHub Stats" />
+</p>
 
+---
 
-
-
-
-  
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/raphael-souza-franco-a665392b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:raphchio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
