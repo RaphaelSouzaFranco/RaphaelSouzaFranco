@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Dynamic Liquid Glass Card Centerpiece -->
-  <img src="https://api-liquid-glass-ey8v.vercel.app/liquid-glass?title=Raphael%20Souza&text=Dev%20Fullstack%20%7C%20AI%20Development%20%7C%20Estudante%20FIAP%20%26%20PUC-RJ&theme=neon&icon=sparkles&badges=Java,Python,JS,React,GenAI,ML" alt="Raphael's Status" width="100%" style="max-width: 600px;" />
+  <img src="https://api-liquid-glass-ey8v.vercel.app/liquid-glass?title=Raphael%20Souza&text=Dev%20Fullstack%20%7C%20AI%20Development%20%7C%20%20FIAP%20%26%20PUC-RJ&theme=neon&icon=sparkles&badges=Java,Python,JS,React,GenAI,ML" alt="Raphael's Status" width="100%" style="max-width: 600px;" />
 </p>
 
 ### 💫 About Me
