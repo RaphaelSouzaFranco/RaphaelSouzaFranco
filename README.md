@@ -10,8 +10,14 @@ I'm a System Development student at **FIAP** and pursuing a Postgraduate degree 
 
 - 🎓 **Education**: FIAP (Systems Development) & PUC-RJ (GenAI & LLM)
 - 💼 **Focus**: Fullstack Development & AI Engineering
-- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/raphael-souza-franco-a665392b7/) | [Gmail](mailto:raphchio@gmail.com)
-
+- 📫 **How to reach me**: <p align="left">
+  <a href="https://www.linkedin.com/in/raphael-souza-franco-a665392b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:raphchio@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -49,12 +55,4 @@ I'm a System Development student at **FIAP** and pursuing a Postgraduate degree 
 
 ---
 
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/raphael-souza-franco-a665392b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:raphchio@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+
