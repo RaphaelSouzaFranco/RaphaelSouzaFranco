@@ -1,16 +1,13 @@
-# Hey there! I'm Raphael Souza 👋
+# Hey there! I'm Raphael Souza 
 
-<p align="center">
-  <!-- Dynamic Liquid Glass Card Centerpiece -->
-  <img src="https://api-liquid-glass-ey8v.vercel.app/liquid-glass?title=Raphael%20Souza&text=Dev%20Fullstack%20%7C%20AI%20Development%20%7C%20%20FIAP%20%26%20PUC-RJ&theme=neon&icon=sparkles&badges=Java,Python,JS,React,GenAI,ML" alt="Raphael's Status" width="100%" style="max-width: 600px;" />
-</p>
 
-### 💫 About Me
+
+### About Me
 I'm a System Development student at **FIAP** and pursuing a Postgraduate degree in **GenAI & LLM** at **PUC-RJ**. Passionate about building fullstack applications, researching Machine Learning, and developing generative AI models.
 
-- 🎓 **Education**: FIAP (Systems Development) & PUC-RJ (GenAI & LLM)
-- 💼 **Focus**: Fullstack Development & AI Engineering
-- 📫 **How to reach me**: <p align="left">
+-  **Education**: FIAP (Systems Development) & PUC-RJ (GenAI & LLM)
+-  **Focus**: Fullstack Development & AI Engineering
+-  **How to reach me**: <p align="left">
   <a href="https://www.linkedin.com/in/raphael-souza-franco-a665392b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -20,7 +17,7 @@ I'm a System Development student at **FIAP** and pursuing a Postgraduate degree 
 </p>
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 #### Languages & Core
 <p align="left">
@@ -48,7 +45,7 @@ I'm a System Development student at **FIAP** and pursuing a Postgraduate degree 
 ---
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaphaelSouzaFranco&show_icons=true&theme=synthwave" alt="GitHub Stats" />
 </p>
